@@ -6,5 +6,10 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="백트래킹"/>
+	<classpathentry kind="src" path="구현"/>
+	<classpathentry kind="src" path="스택"/>
+	<classpathentry kind="src" path="누적합"/>
+	<classpathentry kind="src" path="문자열"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
