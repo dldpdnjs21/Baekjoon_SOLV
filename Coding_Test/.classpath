@@ -11,5 +11,6 @@
 	<classpathentry kind="src" path="스택"/>
 	<classpathentry kind="src" path="누적합"/>
 	<classpathentry kind="src" path="문자열"/>
+	<classpathentry kind="src" path="그리디"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
